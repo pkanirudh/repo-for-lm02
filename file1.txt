@@ -1,2 +1,3 @@
 This is first line in local repo via GIT BASH
 This is the second line added to branch of local repo GIT BASH
+This is the third line added to branch of local repo again (2nd merged to master)
